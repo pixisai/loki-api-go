@@ -1,0 +1,4 @@
+package: loki_api
+generate:
+  client: true
+output: client.gen.go

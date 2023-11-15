@@ -1,0 +1,4 @@
+package: loki_api
+generate:
+  models: true
+output: models.gen.go
